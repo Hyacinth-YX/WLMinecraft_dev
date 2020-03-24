@@ -1,8 +1,8 @@
 lastAccountName: hyacinth
 timestamps:
-  login: 1584643566519
+  login: 1585064668883
   logout: 1584643808553
-ipAddress: 183.225.40.86
+ipAddress: 183.225.40.160
 logoutlocation:
   world: world
   x: -40.923795292193866
@@ -10,3 +10,10 @@ logoutlocation:
   z: -240.7673406076796
   yaw: -127.01479
   pitch: 33.749947
+lastlocation:
+  world: world
+  x: 151.69999998807907
+  y: 7.0
+  z: -472.85608368892014
+  yaw: 3.4917874
+  pitch: 0.0
