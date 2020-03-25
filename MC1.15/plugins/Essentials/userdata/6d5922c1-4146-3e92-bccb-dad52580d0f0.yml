@@ -1,12 +1,22 @@
 lastAccountName: mumu
 timestamps:
-  login: 1585064059418
+  login: 1585147350011
+  lastteleport: 1585065772299
+  logout: 1585145628426
 ipAddress: 117.188.169.47
-godmode: true
+godmode: false
 lastlocation:
   world: world
-  x: 102.96699654243697
-  y: 78.0
-  z: -471.6642995234314
-  yaw: 56.55136
-  pitch: 13.050194
+  x: 58.61268170471741
+  y: 88.74317126936853
+  z: -50.95354626995267
+  yaw: 21.318176
+  pitch: 31.950468
+logoutlocation:
+  world: world
+  x: 208.05101105753582
+  y: 185.0
+  z: -547.9556895309812
+  yaw: 62.258026
+  pitch: 3.4498348
+afk: false

@@ -11,12 +11,20 @@ options:
   useEndPortalHandler: false
   useportalhandler: false
   useWorldSpawnHandler: false
+  useWorldChatSeperator: false
+  craftbukkitHooks: true
 worlds:
   world:
     seed: 1248035685021712438
     worldgen: Normal
     options: ''
     difficulty: EASY
+    autoload: true
+  world_circle2:
+    seed: 4515811706543311084
+    worldgen: NORMAL
+    options: ''
+    difficulty: NORMAL
     autoload: true
   world_nether:
     seed: 1248035685021712438
