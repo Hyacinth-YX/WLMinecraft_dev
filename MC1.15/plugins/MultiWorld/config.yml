@@ -22,7 +22,7 @@ worlds:
     autoload: true
   world_circle2:
     seed: 4515811706543311084
-    worldgen: NORMAL
+    worldgen: Normal
     options: ''
     difficulty: NORMAL
     autoload: true
@@ -31,6 +31,12 @@ worlds:
     worldgen: Nether
     options: ''
     difficulty: EASY
+    autoload: true
+  world_new:
+    seed: -7494240475182259144
+    worldgen: Normal
+    options: ''
+    difficulty: NORMAL
     autoload: true
   world_the_end:
     seed: 1248035685021712438
