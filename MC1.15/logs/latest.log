@@ -1,31 +1,90 @@
-[00:00:20] [Server thread/INFO]: azmmmm issued server command: /stop
-[00:00:20] [Server thread/INFO]: [azmmmm: Stopping the server]
-[00:00:20] [Server thread/INFO]: Stopping server
-[00:00:20] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[00:00:20] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[00:00:20] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
-[00:00:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[00:00:20] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[00:00:20] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
-[00:00:20] [Server thread/INFO]: [MultiWorld] Disabled.
-[00:00:20] [Server thread/INFO]: Saving players
-[00:00:20] [Server thread/INFO]: azmmmm lost connection: Server closed
-[00:00:20] [Server thread/INFO]: azmmmm left the game
-[00:00:20] [Server thread/INFO]: hyacinth lost connection: Server closed
-[00:00:20] [Server thread/INFO]: hyacinth left the game
-[00:00:20] [Server thread/INFO]: Saving worlds
-[00:00:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:00:20] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[00:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:00:20] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[00:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:00:20] [Server thread/INFO]: Saving chunks for level 'world_circle2'/minecraft:world_circle2
-[00:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_circle2): All chunks are saved
-[00:00:21] [Server thread/INFO]: Saving chunks for level 'world_new'/minecraft:world_new
-[00:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_new): All chunks are saved
-[00:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_circle2): All chunks are saved
-[00:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_new): All chunks are saved
+[00:00:22] [Server thread/INFO]: azmmmm issued server command: /deop azmmmm
+[00:00:23] [Server thread/INFO]: [azmmmm: Made azmmmm no longer a server operator]
+[00:00:30] [Server thread/INFO]: azmmmm issued server command: /gamemode 0
+[00:00:30] [Server thread/INFO]: §cazmmmm §4was denied access to command.
+[00:00:50] [Server thread/INFO]: mumu issued server command: /gamemode survival azmmmm
+[00:00:59] [Async Chat Thread - #15/INFO]: <[0;31;22mhyacinth[m> 放箱子的时候不是有个inventory嘛[m
+[00:01:28] [Server thread/INFO]: azmmmm went up in flames
+[00:01:40] [Async Chat Thread - #15/INFO]: <[0;31;22mmumu[m> 不太。。。。懂[m
+[00:02:23] [Server thread/INFO]: mumu lost connection: Disconnected
+[00:02:23] [Server thread/INFO]: mumu left the game
+[00:02:30] [Async Chat Thread - #15/INFO]: <azmmmm> 好像我不是OP也可以破坏东西[m
+[00:03:14] [Server thread/INFO]: azmmmm was shot by Skeleton
+[00:03:16] [Async Chat Thread - #15/INFO]: <[0;31;22mhyacinth[m> 唔[m
+[00:03:28] [Async Chat Thread - #15/INFO]: <azmmmm> op yixia wo[m
+[00:03:42] [Server thread/INFO]: hyacinth issued server command: /op azmmmm
+[00:03:42] [Server thread/INFO]: [hyacinth: Made azmmmm a server operator]
+[00:04:04] [Server thread/INFO]: azmmmm issued server command: /gamemode 1
+[00:04:14] [Server thread/INFO]: azmmmm issued server command: /gamemode 0
+[00:04:19] [Server thread/INFO]: azmmmm issued server command: /deop azmmmm
+[00:04:19] [Server thread/INFO]: [azmmmm: Made azmmmm no longer a server operator]
+[00:04:34] [Server thread/INFO]: azmmmm was slain by Spider
+[00:05:17] [User Authenticator #11/INFO]: UUID of player mumu is 6d5922c1-4146-3e92-bccb-dad52580d0f0
+[00:05:18] [Server thread/INFO]: mumu[/117.188.187.144:38497] logged in with entity id 118394 at ([world_valley_of_battle]114.35065122012956, 29.0, 710.6812186059913)
+[00:05:25] [Server thread/INFO]: mumu lost connection: Disconnected
+[00:05:25] [Server thread/INFO]: mumu left the game
+[00:05:31] [User Authenticator #12/INFO]: UUID of player mumu is 6d5922c1-4146-3e92-bccb-dad52580d0f0
+[00:05:31] [Server thread/INFO]: mumu[/117.188.187.144:38508] logged in with entity id 118525 at ([world_valley_of_battle]114.35065122012956, 29.0, 710.6812186059913)
+[00:05:46] [Server thread/INFO]: mumu issued server command: /op azmmmm
+[00:05:46] [Server thread/INFO]: [mumu: Made azmmmm a server operator]
+[00:05:48] [Server thread/INFO]: mumu lost connection: Disconnected
+[00:05:48] [Server thread/INFO]: mumu left the game
+[00:05:53] [Server thread/INFO]: azmmmm issued server command: /gamemode 0
+[00:05:57] [Server thread/INFO]: azmmmm issued server command: /gamemode 1
+[00:06:07] [Server thread/INFO]: azmmmm issued server command: /give azmmmm command_block
+[00:06:30] [Server thread/INFO]: azmmmm issued server command: /deop azmmmm
+[00:06:30] [Server thread/INFO]: [azmmmm: Made azmmmm no longer a server operator]
+[00:06:54] [Async Chat Thread - #16/INFO]: <azmmmm> op wo yixia[m
+[00:07:07] [Server thread/INFO]: hyacinth issued server command: /op azmmmm
+[00:07:07] [Server thread/INFO]: [hyacinth: Made azmmmm a server operator]
+[00:07:15] [Server thread/INFO]: hyacinth issued server command: /setblock ~ ~1 ~ minecraft:chest{"Items":[{"id":264,"Slot":0,"Count":5}]}
+[00:07:15] [Server thread/INFO]: [hyacinth: Changed the block at 386, 30, 773]
+[00:07:38] [Server thread/INFO]: hyacinth issued server command: /setblock ~ ~1 ~ minecraft:chest{"Items":[{"id":263,"Slot":0,"Count":5}]}
+[00:07:38] [Server thread/INFO]: [hyacinth: Changed the block at 386, 30, 772]
+[00:08:56] [Server thread/INFO]: hyacinth issued server command: /setblock ~ ~2 ~ minecraft:chest{"Items":[{"id":21,"Slot":3,"Count":5}]}
+[00:08:56] [Server thread/INFO]: [hyacinth: Changed the block at 386, 31, 776]
+[00:09:27] [Server thread/INFO]: azmmmm lost connection: Disconnected
+[00:09:27] [Server thread/INFO]: azmmmm left the game
+[00:10:14] [Server thread/INFO]: hyacinth issued server command: /setblock ~ ~2 ~ minecraft:chest{"Items":[{"id":21,"Slot":2b,"Count":5}]}
+[00:10:14] [Server thread/INFO]: [hyacinth: Changed the block at 386, 31, 774]
+[00:10:27] [Server thread/INFO]: hyacinth issued server command: /setblock ~ ~2 ~ minecraft:chest{"Items":[{"id":21,"Slot":2b,"Count":5}]}
+[00:10:27] [Server thread/INFO]: [hyacinth: Changed the block at 384, 31, 775]
+[00:10:37] [Server thread/INFO]: hyacinth issued server command: /ascend
+[00:10:43] [Server thread/INFO]: hyacinth issued server command: /as
+[00:10:47] [Server thread/INFO]: hyacinth issued server command: /ascend
+[00:12:01] [Server thread/INFO]: hyacinth issued server command: /setblock ~1 ~ ~ minecraft:chest replace
+[00:12:01] [Server thread/INFO]: [hyacinth: Changed the block at 382, 51, 769]
+[00:13:49] [Server thread/INFO]: hyacinth issued server command: /setblock ~1 ~ ~ minecraft:chest{items:[{Slot:0b,id:"minecraft:sand",Count:1,Damage:0}]}
+[00:13:49] [Server thread/INFO]: [hyacinth: Changed the block at 382, 51, 769]
+[00:14:05] [Server thread/INFO]: hyacinth issued server command: /setblock ~1 ~ ~ minecraft:chest{Items:[{Slot:0b,id:"minecraft:sand",Count:1,Damage:0}]}
+[00:14:09] [Server thread/INFO]: hyacinth issued server command: /setblock ~1 ~ ~ minecraft:chest{Items:[{Slot:0b,id:"minecraft:sand",Count:1,Damage:0}]}
+[00:14:09] [Server thread/INFO]: [hyacinth: Changed the block at 382, 51, 769]
+[00:14:21] [Server thread/INFO]: hyacinth issued server command: /setblock ~1 ~ ~ minecraft:chest{Items:[{Slot:0b,id:"minecraft:sand",Count:1}]}
+[00:14:21] [Server thread/INFO]: [hyacinth: Changed the block at 382, 51, 769]
+[00:17:02] [Server thread/INFO]: hyacinth issued server command: /setblock ~1 ~ ~ minecraft:chest{Items:[{Slot:0b,id:"minecraft:iron_block",Count:1,Damage:0}]}
+[00:17:02] [Server thread/INFO]: [hyacinth: Changed the block at 382, 51, 769]
+[00:17:12] [Server thread/INFO]: hyacinth issued server command: /setblock ~1 ~ ~ minecraft:chest{Items:[{Slot:0b,id:"minecraft:iron_block",Count:15,Damage:0}]}
+[00:17:12] [Server thread/INFO]: [hyacinth: Changed the block at 382, 51, 769]
+[00:17:18] [Server thread/INFO]: hyacinth issued server command: /setblock ~1 ~ ~ minecraft:chest{Items:[{Slot:0b,id:"minecraft:iron_block",Count:15,Damage:0}]}
+[00:17:18] [Server thread/INFO]: [hyacinth: Changed the block at 382, 51, 769]
+[00:17:23] [User Authenticator #13/INFO]: UUID of player linsun is d94c74ae-a38b-3e9e-935c-3ee0a37f85ec
+[00:17:23] [Server thread/INFO]: linsun[/117.188.187.144:38446] logged in with entity id 119465 at ([world]-4.5, 83.0, 9.5)
+[00:17:23] [pool-10-thread-1/INFO]: Creating empty config: /WLMinecraft_dev/MC1.15/plugins/Essentials/userdata/d94c74ae-a38b-3e9e-935c-3ee0a37f85ec.yml
+[00:17:42] [Server thread/INFO]: hyacinth issued server command: /m linsun 还没睡？
+[00:17:55] [Async Chat Thread - #17/INFO]: <[0;31;22mhyacinth[m> 新号？[m
+[00:17:59] [Async Chat Thread - #17/INFO]: <linsun> 试下新号的权限[m
+[00:18:07] [Async Chat Thread - #17/INFO]: <linsun> 不能破坏方块[m
+[00:18:32] [Async Chat Thread - #17/INFO]: <[0;31;22mhyacinth[m> 可以用/setblock ~1 ~ ~ minecraft:chest{Items:[{Slot:0b,id:"minecraft:iron_block",Count:15,Damage:0}]}来设置宝箱[m
+[00:18:38] [Async Chat Thread - #17/INFO]: <[0;31;22mhyacinth[m> 嗯嗯[m
+[00:18:45] [Async Chat Thread - #17/INFO]: <[0;31;22mhyacinth[m> 明天看下权限组把[m
+[00:18:51] [Async Chat Thread - #17/INFO]: <linsun> 指令也不能用[m
+[00:18:55] [Async Chat Thread - #17/INFO]: <linsun> 嗯[m
+[00:18:59] [Async Chat Thread - #17/INFO]: <[0;31;22mhyacinth[m> 睡啦睡啦[m
+[00:19:04] [Async Chat Thread - #17/INFO]: <linsun> ok 88[m
+[00:19:05] [Server thread/INFO]: linsun lost connection: Disconnected
+[00:19:05] [Server thread/INFO]: linsun left the game
+[00:19:05] [Async Chat Thread - #17/INFO]: <[0;31;22mhyacinth[m> 睡啦睡啦[m
+[00:19:22] [Server thread/INFO]: hyacinth lost connection: Disconnected
+[00:19:22] [Server thread/INFO]: hyacinth left the game
+[19:48:32] [User Authenticator #14/INFO]: UUID of player mumu is 6d5922c1-4146-3e92-bccb-dad52580d0f0
+[19:48:32] [Server thread/INFO]: mumu[/117.188.181.141:3128] logged in with entity id 120601 at ([world_valley_of_battle]109.64507054821314, 30.5, 705.3050043740067)

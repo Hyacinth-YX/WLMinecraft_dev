@@ -1,21 +1,29 @@
 lastAccountName: azmmmm
 timestamps:
-  login: 1585231535626
-  logout: 1585149495970
-  lastteleport: 1585238179737
-ipAddress: 125.73.90.58
+  login: 1585751557772
+  logout: 1585757367586
+  lastteleport: 1585756207124
+ipAddress: 125.73.88.242
 afk: false
 logoutlocation:
-  world: world
-  x: 82.28939231443313
-  y: 87.0
-  z: -59.63411797625288
-  yaw: 111.17789
-  pitch: -3.4497428
+  world: world_new
+  x: 396.7895382796746
+  y: 65.0
+  z: -98.48104623788295
+  yaw: -74.552055
+  pitch: 70.199844
 lastlocation:
-  world: world_circle2
-  x: 207.53355586070023
-  y: 187.0
-  z: -524.2381904467827
-  yaw: 136.32837
-  pitch: 29.099419
+  world: world_valley_of_battle
+  x: 142.10206731322262
+  y: 49.11158504176169
+  z: 802.8518976690339
+  yaw: -128.09503
+  pitch: -40.949066
+homes:
+  home:
+    world: world_new
+    x: 378.0964922352432
+    y: 58.125
+    z: -98.06050530473284
+    yaw: 15.857727
+    pitch: 22.50071
