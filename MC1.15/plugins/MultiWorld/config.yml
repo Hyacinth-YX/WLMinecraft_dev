@@ -22,7 +22,7 @@ worlds:
     autoload: true
   world_back:
     seed: 4694486148692282612
-    worldgen: NORMAL
+    worldgen: Normal
     options: ''
     difficulty: NORMAL
     autoload: true
@@ -32,11 +32,23 @@ worlds:
     options: ''
     difficulty: NORMAL
     autoload: true
+  world_nether:
+    seed: 27594263
+    worldgen: NETHER
+    options: ''
+    difficulty: EASY
+    autoload: true
   world_new:
     seed: -7494240475182259144
     worldgen: Normal
     options: ''
     difficulty: NORMAL
+    autoload: true
+  world_the_end:
+    seed: 27594263
+    worldgen: THE_END
+    options: ''
+    difficulty: EASY
     autoload: true
   world_valley_of_battle:
     seed: 1375176993666483309

@@ -22,16 +22,16 @@ regions:
         type: cuboid
         priority: 0
     controlroom:
-        min: {x: 370, y: 30, z: -105}
-        max: {x: 381, y: 62, z: -89}
+        min: {x: 370, y: 28, z: -106}
+        max: {x: 383, y: 62, z: -89}
         members: {}
-        flags: {}
+        flags: {use: deny}
         owners: {}
         type: cuboid
         priority: 0
     __global__:
         members: {}
-        flags: {}
+        flags: {use: allow}
         owners: {}
         type: global
         priority: 0
