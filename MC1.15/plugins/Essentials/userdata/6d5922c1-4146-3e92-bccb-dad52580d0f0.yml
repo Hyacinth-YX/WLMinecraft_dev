@@ -1,8 +1,8 @@
 lastAccountName: mumu
 timestamps:
-  login: 1585920706917
+  login: 1586003097108
   lastteleport: 1585743776388
-  logout: 1585920704920
+  logout: 1585934894368
   kits:
     tools: 1585840272456
 ipAddress: 117.188.170.178
@@ -16,11 +16,11 @@ lastlocation:
   pitch: 1.0498592
 logoutlocation:
   world: world_new
-  x: 427.1879757984545
-  y: 63.5
-  z: -84.86067877326168
-  yaw: -69.901886
-  pitch: 26.699802
+  x: 476.27444134122345
+  y: 64.0
+  z: -130.2738993106156
+  yaw: 257.50623
+  pitch: 32.699917
 afk: false
 homes:
   home:

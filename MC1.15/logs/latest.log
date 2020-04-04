@@ -1,11 +1,250 @@
-[22:22:20] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[22:22:20] [Server thread/INFO]: Loading properties
-[22:22:20] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6de3d4b-a6f8093 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[22:22:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:22:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:22:20] [Server thread/INFO]: Debug logging is disabled
-[22:22:21] [Server thread/INFO]: Default game type: SURVIVAL
-[22:22:21] [Server thread/INFO]: Generating keypair
-[22:22:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:22:21] [Server thread/INFO]: Using epoll channel type
-[22:22:22] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:28:14] [Server thread/INFO]: mumu lost connection: Disconnected
+[01:28:14] [Server thread/INFO]: mumu left the game
+[09:19:48] [User Authenticator #3/INFO]: UUID of player hyacinth is a62f4e98-03f1-3fd2-88e7-2a59b85a8138
+[09:19:49] [Server thread/INFO]: hyacinth[/183.225.39.214:6061] logged in with entity id 11236 at ([world_new]375.27888328520424, 49.98101648453447, -89.69999998807907)
+[09:31:12] [Server thread/INFO]: hyacinth issued server command: /give hyacinth eggsheep{"Name"="team5"} 1
+[09:36:21] [Server thread/INFO]: hyacinth issued server command: /give hyacinth panda_spawn_egg 1
+[09:37:22] [Server thread/INFO]: hyacinth issued server command: /give hyacinth panda_spawn_egg 1
+[09:37:55] [Server thread/INFO]: hyacinth issued server command: /give hyacinth panda_spawn_egg 40
+[09:39:54] [Server thread/INFO]: hyacinth issued server command: /give hyacinth panda_spawn_egg 1 0
+[09:47:31] [Server thread/INFO]: hyacinth issued server command: /ascend
+[09:52:45] [Server thread/INFO]: hyacinth issued server command: /mw goto world_valley_of_battle
+[09:52:45] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mhyacinth: Moved player hyacinth to world world_valley_of_battle[m
+[09:53:05] [Server thread/INFO]: hyacinth issued server command: /descend
+[09:53:07] [Server thread/INFO]: hyacinth issued server command: /descend
+[09:54:59] [Server thread/INFO]: hyacinth issued server command: /scoreboard objectives setdisplay list cir_count_down
+[09:54:59] [Server thread/INFO]: [hyacinth: Set display slot list to show objective 缩圈倒计时]
+[09:56:21] [Server thread/INFO]: hyacinth issued server command: /scoreboard objectives setdisplay sidebar cir_count_down
+[09:56:21] [Server thread/INFO]: [hyacinth: Set display slot sidebar to show objective 缩圈倒计时]
+[10:01:50] [Server thread/INFO]: hyacinth issued server command: /execute run 15/3
+[10:06:31] [Server thread/INFO]: hyacinth issued server command: /scoreboard objectives setdisplay sidebar timer_circle
+[10:06:31] [Server thread/INFO]: [hyacinth: Set display slot sidebar to show objective timer_circle]
+[10:17:59] [Server thread/INFO]: hyacinth issued server command: /scoreboard objectives setdisplay sidebar timer_circle
+[10:17:59] [Server thread/INFO]: [hyacinth: Set display slot sidebar to show objective timer_circle]
+[10:20:03] [Server thread/INFO]: hyacinth issued server command: /scoreboard objectives setdisplay sidebar cir_count_down
+[10:20:03] [Server thread/INFO]: [hyacinth: Set display slot sidebar to show objective 缩圈倒计时]
+[10:20:28] [Server thread/INFO]: hyacinth issued server command: /scoreboard players remove cir_sec cir_count_down 7
+[10:20:28] [Server thread/INFO]: [hyacinth: Removed 7 from [缩圈倒计时] for cir_sec (now 2)]
+[10:21:35] [Server thread/INFO]: hyacinth lost connection: Disconnected
+[10:21:35] [Server thread/INFO]: hyacinth left the game
+[11:59:57] [User Authenticator #4/INFO]: UUID of player azmmmm is e1a0ea50-2ea6-3f26-ae51-0439cce8fe4c
+[11:59:57] [Server thread/INFO]: azmmmm[/125.73.88.242:46080] logged in with entity id 15638 at ([world_new]374.45424929233536, 59.0, -98.94631663406467)
+[12:05:02] [Server thread/INFO]: azmmmm issued server command: /scoreboard players list part
+[12:06:07] [Async Chat Thread - #1/INFO]: <[0;31;22mazmmmm[m> execute if score part part matches 4 run scoreboard players reset 第一轮已结束[m
+[12:06:10] [Server thread/INFO]: azmmmm issued server command: /execute if score part part matches 4 run scoreboard players reset 第一轮已结束
+[12:06:10] [Server thread/INFO]: [azmmmm: Reset all scores for 第一轮已结束]
+[12:13:17] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:17] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:17] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:17] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:17] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:17] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:17] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:17] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:18] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:19] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:13:20] [Server thread/INFO]: [@] BOSS正在生成...
+[12:15:36] [Server thread/INFO]: azmmmm issued server command: /scoreboard objectives modify time displayname "游戏开始倒计时"
+[12:15:36] [Server thread/INFO]: [azmmmm: Changed objective time display name to [游戏开始倒计时]]
+[12:21:10] [Server thread/INFO]: azmmmm issued server command: /scoreboard players set BOSS生成倒计时 bosshealth 27
+[12:21:10] [Server thread/INFO]: [azmmmm: Set [各家BOSS血量] for BOSS生成倒计时 to 27]
+[12:26:25] [Server thread/INFO]: azmmmm issued server command: /scoreboard players reset BOSS生成倒计时
+[12:26:25] [Server thread/INFO]: [azmmmm: Reset all scores for BOSS生成倒计时]
+[12:29:23] [Server thread/INFO]: azmmmm issued server command: /scoreboard players remove 第一轮结束倒计时(分) bosshealth 8
+[12:29:23] [Server thread/INFO]: [azmmmm: Removed 8 from [各家BOSS血量] for 第一轮结束倒计时(分) (now 20)]
+[12:29:48] [Server thread/INFO]: [@] BOSS正在生成...
+[12:34:25] [Server thread/INFO]: azmmmm issued server command: /scoreboard players list time
+[12:34:37] [Server thread/INFO]: azmmmm issued server command: /scoreboard players list 倒计时
+[12:36:45] [Server thread/INFO]: [@] BOSS正在生成...
+[12:37:42] [Server thread/INFO]: [@] BOSS正在生成...
+[12:38:24] [Server thread/INFO]: azmmmm issued server command: /scoreboard players set 第一轮结束倒计时(分) bosshealth 25
+[12:38:24] [Server thread/INFO]: [azmmmm: Set [各家BOSS血量] for 第一轮结束倒计时(分) to 25]
+[12:38:37] [Server thread/INFO]: azmmmm issued server command: /scoreboard players set 第一轮结束倒计时(秒) bosshealth -2
+[12:38:37] [Server thread/INFO]: [azmmmm: Set [各家BOSS血量] for 第一轮结束倒计时(秒) to -2]
+[12:39:30] [Server thread/INFO]: azmmmm issued server command: /scoreboard players set 第一轮结束倒计时(分) bosshealth 25
+[12:39:30] [Server thread/INFO]: [azmmmm: Set [各家BOSS血量] for 第一轮结束倒计时(分) to 25]
+[12:39:33] [Server thread/INFO]: azmmmm issued server command: /scoreboard players set 第一轮结束倒计时(秒) bosshealth -2
+[12:39:33] [Server thread/INFO]: [azmmmm: Set [各家BOSS血量] for 第一轮结束倒计时(秒) to -2]
+[12:39:35] [Server thread/INFO]: [@] 队伍选择已停止
+[12:40:27] [Server thread/INFO]: azmmmm issued server command: /warp team8
+[12:40:51] [Server thread/INFO]: azmmmm issued server command: /home
+[12:42:29] [Async Chat Thread - #2/INFO]: <[0;31;22mazmmmm[m> execute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth[m
+[12:42:31] [Server thread/INFO]: azmmmm issued server command: /execute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth
+[12:42:41] [Server thread/INFO]: azmmmm lost connection: Disconnected
+[12:42:41] [Server thread/INFO]: azmmmm left the game
+[12:42:42] [User Authenticator #5/INFO]: UUID of player azmmmm is e1a0ea50-2ea6-3f26-ae51-0439cce8fe4c
+[12:42:42] [Server thread/INFO]: azmmmm[/125.73.88.242:47661] logged in with entity id 18661 at ([world_new]378.30000001192093, 58.0, -100.2885857675031)
+[12:42:55] [Async Chat Thread - #2/INFO]: <[0;31;22mazmmmm[m> execute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth[m
+[12:42:57] [Server thread/INFO]: azmmmm issued server command: /execute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth
+[12:42:59] [Server thread/INFO]: azmmmm issued server command: /execute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth
+[12:43:01] [Server thread/INFO]: azmmmm issued server command: /texecute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth
+[12:43:03] [Async Chat Thread - #2/INFO]: <[0;31;22mazmmmm[m> execute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth[m
+[12:43:04] [Server thread/INFO]: azmmmm issued server command: /execute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth
+[12:43:12] [Server thread/INFO]: azmmmm issued server command: /execute if score 倒计时 time matches -1..0 run scoreboard objectives setdisplay sidebar bosshealth
+[12:43:37] [Server thread/INFO]: azmmmm issued server command: /scoreboard players list BOSS生成倒计时
+[12:44:00] [Server thread/INFO]: azmmmm issued server command: /scoreboard players list BOSS生成倒计时(秒)
+[12:44:04] [Server thread/INFO]: azmmmm issued server command: /scoreboard players list BOSS生成倒计时(秒)
+[12:44:05] [Server thread/INFO]: azmmmm issued server command: /scoreboard players list BOSS生成倒计时(秒)
+[12:44:06] [Server thread/INFO]: azmmmm issued server command: /scoreboard players list BOSS生成倒计时(秒)
+[12:44:44] [Server thread/INFO]: azmmmm issued server command: /scoreboard objectives setdisplay sidebar bosshealth
+[12:45:00] [Server thread/INFO]: azmmmm issued server command: /team list 1
+[12:45:26] [Server thread/INFO]: azmmmm issued server command: /scoreboard objectives setdisplay sidebar.team.blue bosshealth
+[12:45:26] [Server thread/INFO]: [azmmmm: Set display slot sidebar.team.blue to show objective 各家BOSS血量]
+[12:45:48] [Server thread/INFO]: azmmmm issued server command: /scoreboard objectives setdisplay sidebar.team.blue
+[12:45:48] [Server thread/INFO]: [azmmmm: Cleared any objectives in display slot sidebar.team.blue]
+[12:45:55] [Server thread/INFO]: azmmmm issued server command: /scoreboard objectives setdisplay sidebar.team.aqua.team.blue
+[12:46:13] [Server thread/INFO]: azmmmm issued server command: /scoreboard objectives setdisplay sidebar.team.aqua
+[12:46:13] [Server thread/INFO]: [azmmmm: Cleared any objectives in display slot sidebar.team.aqua]
+[12:46:23] [Server thread/INFO]: azmmmm issued server command: /warp team1
+[12:47:16] [Server thread/INFO]: azmmmm issued server command: /home
+[12:49:05] [Server thread/INFO]: azmmmm lost connection: Disconnected
+[12:49:05] [Server thread/INFO]: azmmmm left the game
+[12:58:48] [Server thread/INFO]: [@] BOSS正在生成...
+[13:18:48] [Server thread/INFO]: [@] 第一轮结束！血量停止计算，请裁判计分。
+[15:55:02] [User Authenticator #6/INFO]: UUID of player Sobrem is 7d08e122-00be-33d7-b8bb-48d59dede9d7
+[15:55:02] [Server thread/INFO]: Sobrem[/106.113.94.124:17969] logged in with entity id 19199 at ([world]-6.5, 84.0, -9.5)
+[15:55:02] [pool-10-thread-1/INFO]: Creating empty config: /WLMinecraft_dev/MC1.15/plugins/Essentials/userdata/7d08e122-00be-33d7-b8bb-48d59dede9d7.yml
+[15:57:17] [Server thread/INFO]: Sobrem lost connection: Disconnected
+[15:57:17] [Server thread/INFO]: Sobrem left the game
+[15:59:10] [User Authenticator #7/INFO]: UUID of player Sobrem is 7d08e122-00be-33d7-b8bb-48d59dede9d7
+[15:59:10] [Server thread/INFO]: Sobrem[/106.113.94.124:18313] logged in with entity id 19209 at ([world]-72.57701923922917, 76.0, 53.37900595762586)
+[15:59:43] [Server thread/INFO]: Sobrem lost connection: Disconnected
+[15:59:43] [Server thread/INFO]: Sobrem left the game
+[20:00:43] [User Authenticator #8/INFO]: UUID of player azmmmm is e1a0ea50-2ea6-3f26-ae51-0439cce8fe4c
+[20:00:43] [Server thread/INFO]: azmmmm[/125.73.88.242:46570] logged in with entity id 19432 at ([world_new]375.47337182872366, 58.0, -101.39409388652298)
+[20:01:05] [Server thread/INFO]: azmmmm issued server command: /delwarp azmmmm
+[20:01:24] [Server thread/INFO]: azmmmm issued server command: /setwarp controlroom
+[20:01:24] [pool-10-thread-1/INFO]: Creating empty config: /WLMinecraft_dev/MC1.15/plugins/Essentials/warps/controlroom.yml
+[20:07:13] [Server thread/INFO]: azmmmm issued server command: /warp controlroom
+[20:08:24] [Server thread/INFO]: [@] BOSS正在生成...
+[20:08:24] [Server thread/INFO]: [@] 第一轮结束！血量停止计算，请裁判计分。
+[20:09:33] [User Authenticator #9/INFO]: UUID of player Sobrem is 7d08e122-00be-33d7-b8bb-48d59dede9d7
+[20:09:33] [Server thread/INFO]: Sobrem[/106.113.94.124:17428] logged in with entity id 19981 at ([world]-70.59689453746658, 75.0, 66.14886185907895)
+[20:10:25] [User Authenticator #10/INFO]: UUID of player hyacinth is a62f4e98-03f1-3fd2-88e7-2a59b85a8138
+[20:10:26] [Server thread/INFO]: hyacinth[/183.225.39.214:6091] logged in with entity id 20041 at ([world_valley_of_battle]235.72406033967056, 88.53491123074161, 735.7247535391912)
+[20:11:40] [Server thread/INFO]: azmmmm issued server command: /killall entities
+[20:12:10] [Server thread/INFO]: hyacinth issued server command: /tp Sobrem
+[20:12:36] [Server thread/INFO]: azmmmm issued server command: /tp hyacinth
+[20:13:15] [Server thread/INFO]: Sobrem issued server command: /mwgoto
+[20:13:20] [Server thread/INFO]: azmmmm issued server command: /mw list
+[20:13:26] [Server thread/INFO]: azmmmm issued server command: /mw unload nether
+[20:13:27] [Server thread/INFO]: Sobrem issued server command: /mwgoto
+[20:13:34] [Server thread/INFO]: azmmmm issued server command: /mw unload world_nether
+[20:13:34] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mazmmmm: world_nether: Unloading...[m
+[20:13:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:34] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mazmmmm: world_nether: Unloaded![m
+[20:13:46] [Server thread/INFO]: azmmmm issued server command: /mw unload world_the_end
+[20:13:46] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mazmmmm: world_the_end: Unloading...[m
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:13:46] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mazmmmm: world_the_end: Unloaded![m
+[20:13:50] [Server thread/INFO]: azmmmm issued server command: /mw list
+[20:13:55] [Server thread/INFO]: azmmmm has made the advancement [Ice Bucket Challenge]
+[20:14:10] [Server thread/INFO]: Sobrem issued server command: /mw goto world_new
+[20:14:34] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mCONSOLE: Saved automaticly[m
+[20:15:03] [Server thread/INFO]: azmmmm issued server command: /home
+[20:15:26] [Server thread/INFO]: hyacinth issued server command: /mw goto world_new
+[20:15:27] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mhyacinth: Moved player hyacinth to world world_new[m
+[20:15:54] [Server thread/INFO]: hyacinth issued server command: /tp Sobrem hyacinth
+[20:18:16] [Server thread/INFO]: azmmmm issued server command: /home
+[20:19:14] [Server thread/INFO]: hyacinth issued server command: /give Sobrem diamond_sword
+[20:19:20] [Server thread/INFO]: azmmmm issued server command: /home
+[20:19:23] [Server thread/INFO]: azmmmm issued server command: /tp hyacinth
+[20:20:11] [Server thread/INFO]: hyacinth issued server command: /op Sobrem
+[20:20:11] [Server thread/INFO]: [hyacinth: Made Sobrem a server operator]
+[20:20:11] [Server thread/INFO]: azmmmm issued server command: /warp team5
+[20:20:17] [Server thread/INFO]: Sobrem was slain by Phantom
+[20:20:39] [Server thread/INFO]: hyacinth issued server command: /gamemode creative
+[20:20:47] [Async Chat Thread - #3/INFO]: <[0;31;22mhyacinth[m> zhege /gamemode creative[m
+[20:20:51] [Server thread/INFO]: [@] BOSS正在生成...
+[20:20:55] [Server thread/INFO]: azmmmm issued server command: /warp team6
+[20:21:00] [Server thread/INFO]: Sobrem issued server command: /mw goto world_new
+[20:21:00] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mSobrem: Moved player Sobrem to world world_new[m
+[20:21:23] [Server thread/INFO]: azmmmm issued server command: /warp team7
+[20:21:32] [Server thread/INFO]: hyacinth issued server command: //copy
+[20:21:34] [Server thread/INFO]: azmmmm issued server command: /warp team8
+[20:21:39] [Server thread/INFO]: hyacinth issued server command: /suicide
+[20:21:39] [Server thread/INFO]: hyacinth died
+[20:21:54] [Server thread/INFO]: hyacinth issued server command: //paste
+[20:22:27] [Server thread/INFO]: hyacinth issued server command: //copy
+[20:22:39] [Server thread/INFO]: hyacinth issued server command: /suicide
+[20:22:39] [Server thread/INFO]: hyacinth died
+[20:22:57] [Server thread/INFO]: hyacinth issued server command: //paste
+[20:23:07] [Server thread/INFO]: azmmmm issued server command: /clear azmmmm
+[20:23:12] [Server thread/INFO]: Sobrem has made the advancement [Monster Hunter]
+[20:23:33] [Async Chat Thread - #4/INFO]: <[0;31;22mhyacinth[m> 这个/godmode[m
+[20:23:36] [Server thread/INFO]: azmmmm issued server command: /data get block ~ ~ ~
+[20:23:41] [Server thread/INFO]: Sobrem issued server command: /godmod
+[20:23:50] [Server thread/INFO]: Sobrem issued server command: /godmode
+[20:24:03] [Server thread/INFO]: hyacinth issued server command: //copy
+[20:24:09] [Server thread/INFO]: hyacinth issued server command: /suicide
+[20:24:09] [Server thread/INFO]: hyacinth died
+[20:24:27] [Server thread/INFO]: hyacinth issued server command: //paste
+[20:24:53] [Server thread/INFO]: azmmmm issued server command: /give azmmmm minecraft:panda_spawn_egg 1 tag:{display;{Name:'{"text":"team1"}'}}
+[20:24:56] [User Authenticator #11/INFO]: UUID of player mumu is 6d5922c1-4146-3e92-bccb-dad52580d0f0
+[20:24:57] [Server thread/INFO]: mumu[/117.188.170.178:14420] logged in with entity id 21207 at ([world_new]476.27444134122345, 64.0, -130.2738993106156)
+[20:25:08] [Server thread/INFO]: mumu issued server command: /day
+[20:25:17] [Server thread/INFO]: hyacinth issued server command: /copy
+[20:25:22] [Server thread/INFO]: hyacinth issued server command: //copy
+[20:25:51] [Server thread/INFO]: hyacinth issued server command: /suicide
+[20:25:51] [Server thread/INFO]: hyacinth died
+[20:26:05] [Server thread/INFO]: hyacinth issued server command: //paste
+[20:26:19] [Server thread/INFO]: hyacinth issued server command: //undo
+[20:26:19] [Server thread/ERROR]: Block at 449, 71, -87 is Block{minecraft:smooth_quartz} but has net.minecraft.server.v1_15_R1.TileEntityChest@51183986. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[20:26:24] [Server thread/INFO]: hyacinth issued server command: //paste
+[20:26:57] [Server thread/INFO]: azmmmm issued server command: /deop azmmmm
+[20:26:57] [Server thread/INFO]: [azmmmm: Made azmmmm no longer a server operator]
+[20:27:08] [Server thread/INFO]: hyacinth issued server command: /op azmmmm
+[20:27:08] [Server thread/INFO]: [hyacinth: Made azmmmm a server operator]
+[20:28:33] [Server thread/INFO]: mumu issued server command: /gamemode spectator
+[20:28:49] [Server thread/INFO]: mumu issued server command: /gamemode creative
