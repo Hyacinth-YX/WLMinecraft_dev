@@ -1,4 +1,28 @@
 {
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-04-04 20:38:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-04-04 20:41:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2020-04-04 20:38:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2020-04-04 20:38:25 +0800"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2020-04-04 20:36:27 +0800",
@@ -7,6 +31,12 @@
       "minecraft:plains": "2020-04-04 20:35:28 +0800"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-04-04 20:38:26 +0800"
+    },
+    "done": true
   },
   "DataVersion": 2230
 }

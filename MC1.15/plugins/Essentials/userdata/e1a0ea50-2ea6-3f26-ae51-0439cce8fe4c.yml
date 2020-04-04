@@ -1,8 +1,8 @@
 lastAccountName: azmmmm
 timestamps:
-  login: 1586001643563
+  login: 1586004648552
   logout: 1585975745166
-  lastteleport: 1586002894342
+  lastteleport: 1586005400280
   kits:
     firework: 1585839185022
     color: 1585839195598
@@ -19,11 +19,11 @@ logoutlocation:
   pitch: 54.900867
 lastlocation:
   world: world_new
-  x: 441.0921667067842
-  y: 64.0
-  z: -88.30000001192093
-  yaw: 60.713867
-  pitch: 44.099697
+  x: 372.2373705211415
+  y: 58.0
+  z: -90.23750001192093
+  yaw: -14.037231
+  pitch: 31.34957
 homes:
   home:
     world: world_new

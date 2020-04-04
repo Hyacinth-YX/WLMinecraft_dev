@@ -1,7 +1,8 @@
 lastAccountName: Sobrem
 timestamps:
-  login: 1586002173267
+  login: 1586004679385
   logout: 1585987183514
+  lastteleport: 1586005121569
 ipAddress: 106.113.94.124
 logoutlocation:
   world: world
@@ -12,10 +13,10 @@ logoutlocation:
   pitch: 14.849941
 lastlocation:
   world: world_new
-  x: 420.96781251334187
-  y: 63.0
-  z: -82.85771367610175
-  yaw: 356.9712
-  pitch: -0.4501287
+  x: 415.0126123435375
+  y: 71.0
+  z: -104.51021710147879
+  yaw: 13.215149
+  pitch: 21.449913
 godmode: true
 afk: false
