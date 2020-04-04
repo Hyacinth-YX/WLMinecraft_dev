@@ -12,9 +12,10 @@ logoutlocation:
   pitch: 14.849941
 lastlocation:
   world: world_new
-  x: 420.74860881449314
-  y: 68.0
-  z: -50.847963899449155
-  yaw: 254.84888
-  pitch: 14.249953
+  x: 420.96781251334187
+  y: 63.0
+  z: -82.85771367610175
+  yaw: 356.9712
+  pitch: -0.4501287
 godmode: true
+afk: false

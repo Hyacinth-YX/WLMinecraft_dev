@@ -9,11 +9,11 @@ ipAddress: 117.188.170.178
 godmode: false
 lastlocation:
   world: world_new
-  x: 373.3025510165105
-  y: 49.0
-  z: -98.67296682873256
-  yaw: -355.99255
-  pitch: 1.0498592
+  x: 421.3566660823068
+  y: 63.5
+  z: -62.80788746477073
+  yaw: 251.95276
+  pitch: 9.59995
 logoutlocation:
   world: world_new
   x: 476.27444134122345
