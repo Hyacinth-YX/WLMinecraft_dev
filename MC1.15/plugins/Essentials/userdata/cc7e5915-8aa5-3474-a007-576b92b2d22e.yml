@@ -1,12 +1,12 @@
 lastAccountName: purple1
 timestamps:
   login: 1586004676339
-  lastteleport: 1586005355488
+  lastteleport: 1586010430982
 ipAddress: 61.243.47.17
 lastlocation:
-  world: world_new
-  x: 401.62314905706984
-  y: 68.0
-  z: -57.7799405673936
-  yaw: 359.8601
-  pitch: 4.8000336
+  world: world_valley_of_battle
+  x: 246.93389236615852
+  y: -118.33759786320624
+  z: 728.7784411086748
+  yaw: 182.5517
+  pitch: 53.25011

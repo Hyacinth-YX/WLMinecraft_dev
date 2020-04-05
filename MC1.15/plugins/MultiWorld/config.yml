@@ -25,13 +25,13 @@ worlds:
     worldgen: Normal
     options: ''
     difficulty: NORMAL
-    autoload: true
+    autoload: false
   world_circle2:
     seed: 4515811706543311084
     worldgen: Normal
     options: ''
     difficulty: NORMAL
-    autoload: true
+    autoload: false
   world_nether:
     seed: 27594263
     worldgen: Nether
